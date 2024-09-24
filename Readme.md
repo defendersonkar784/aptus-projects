@@ -1,3 +1,8 @@
+contract address : 0xb4fb19cbc5448e777a8f12a8a57b4dc45d383cdbd2939d724ba5e3a570d22be3
+
+screenshort : ![image](https://github.com/user-attachments/assets/22bf8812-4069-40ec-ac8d-532b85ff7671)
+
+
 # SocialMediaRewards Smart Contract
 
 ## Vision
